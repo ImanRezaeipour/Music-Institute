@@ -1,0 +1,5 @@
+.ui-state-error {
+    border: 1px solid #cc0000;
+    background: #ffebe8 url(../../jquery/ui/silver/images/ui-icons_cc0000_256x240.png) repeat-x 50% 50%;
+    color: #444444;
+}
